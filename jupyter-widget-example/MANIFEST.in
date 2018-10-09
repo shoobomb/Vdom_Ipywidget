@@ -1,0 +1,2 @@
+recursive-include jupyter-widget-example/static *.*
+include jupyter-widget-example.json
